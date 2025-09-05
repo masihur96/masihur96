@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="240" align="center" valign="middle">
-  <img src="assets/aman.jpg" width="120" height="120" style="border-radius:50%; object-fit:cover; display:block;" alt="Masihur Rohman"/>
+  <img src="assets/aman.jpg" width="230" height="200" style="border-radius:50%; object-fit:cover; display:block;" alt="Masihur Rohman"/>
 </td>
 <td>
   <h1>👋 Hi, I'm Masihur Rohman</h1>
