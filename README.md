@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Masihur Rohman</h1>
-<h3 align="center">🚀 Senior Flutter & Mobile App Developer | Crafting Scalable, High-Performance Apps</h3>
+<h1 align="center">👋 Hi, I'm Masihur Rohman</h1>
+<h3 align="center">Senior Mobile App Developer | Flutter & Cross-Platform Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=masihur96&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=masihur96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=masihur96&theme=flat&no-frame=true&margin-w=10" alt="Trophies" />
   </a>
@@ -11,19 +11,18 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **[HMO – Home Manager Owner](https://github.com/masihur96/Home-Manager-Owner)**
-- 🌱 Exploring **Advanced Flutter, Dart, Firebase, Clean Architecture**
-- 👯 Open to collaborate on **Scalable Mobile Projects**
-- 🤝 Looking for contributors to **[HMO Backend](https://github.com/masihur96/home_manager_backend)**
-- 📫 Reach me at **masihur96@gmail.com**
-- 🌐 Portfolio: [masihurrohman.com](https://masihurrohman.com)
-- 📄 [My Resume](https://drive.google.com/file/d/1yvhbtubedckwohinoqHDOAobNtnV2_m6/view?usp=drive_link)
-- ⚡ Fun fact: *I find peace and purpose in my faith every day.*
+- 🏆 5+ years building **scalable mobile applications** across iOS & Android  
+- 🔭 Currently leading development on **[HMO – Home Manager Owner](https://github.com/masihur96/Home-Manager-Owner)**  
+- 📱 Expertise: **Flutter, Dart, Firebase, Clean Architecture, REST/GraphQL APIs**  
+- 🛠️ Experienced in **CI/CD, performance optimization, and scalable backend integration**  
+- 🤝 Open to **collaborations & consulting** on enterprise-level apps  
+- 🌐 Portfolio: [masihurrohman.com](https://masihurrohman.com)  
+- 📄 [Resume](https://drive.google.com/file/d/1yvhbtubedckwohinoqHDOAobNtnV2_m6/view?usp=drive_link)  
 
 ---
 
 ### 🌍 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/masihur-rohman-279b201b6" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://facebook.com/masihur96" target="blank"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
   <a href="https://dribbble.com/masihur96" target="blank"><img src="https://skillicons.dev/icons?i=dribbble" height="40"/></a>
@@ -33,17 +32,17 @@
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,kotlin,java,python,fastapi,react,reactnative,docker,postgresql,mysql,figma,postman,tensorflow,git" />
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,kotlin,java,swift,python,fastapi,react,reactnative,docker,postgresql,mysql,figma,postman,tensorflow,git" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masihur96&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masihur96&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=masihur96&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masihur96&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 <p align="center">
