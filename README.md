@@ -7,7 +7,7 @@
   <h1>👋 Hi, I'm Masihur Rohman</h1>
   <h3>Senior Mobile App Developer | Flutter & Cross-Platform Specialist</h3>
   <p>
-    🔭 Leading development on <a href="https://github.com/westacebd/attendancekeeper_employee_portal">Attendance keeper</a><br>
+    🔭 Leading development on <a href="https://play.google.com/store/apps/details?id=net.attendancekeeper.app&hl=en">Attendance keeper</a><br>
     🌱 Expertise: Flutter, Dart, Firebase, Clean Architecture, REST/GraphQL APIs<br>
     🛠️ Experienced in CI/CD, performance optimization, and scalable backend integration<br>
     📫 Reach me: <strong>masihur96@gmail.com</strong> | 🌐 <a href="https://masihur.vercel.app/">Portfolio</a>
