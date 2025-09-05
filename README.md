@@ -27,7 +27,7 @@
   </td>
   <td align="center">
     <a href="https://github.com/masihur96/Home-Manager-Tenant">
-      <img src="assets/anuj_prokashon.jpeg" width="220" height="450" style="border-radius:15px; margin:5px;" alt="HMT Demo 1"/>
+      <img src="assets/med_tracker.jpeg" width="220" height="450" style="border-radius:15px; margin:5px;" alt="HMT Demo 1"/>
     </a>
   </td>
     <td align="center">
