@@ -3,9 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=masihur96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=masihur96&theme=flat&no-frame=true&margin-w=10" alt="Trophies" />
-  </a>
 </p>
 
 ---
@@ -18,6 +15,15 @@
 - 🤝 Open to **collaborations & consulting** on enterprise-level apps  
 - 🌐 Portfolio: [masihurrohman.com](https://masihurrohman.com)  
 - 📄 [Resume](https://drive.google.com/file/d/1yvhbtubedckwohinoqHDOAobNtnV2_m6/view?usp=drive_link)  
+
+---
+
+### 📱 Featured Apps
+<p align="center">
+  <a href="https://github.com/masihur96/Home-Manager-Owner"><img src="https://i.ibb.co/2kxqfQx/hmo-demo1.png" alt="HMO Demo 1" width="250" /></a>
+  <a href="https://github.com/masihur96/Home-Manager-Tenant"><img src="https://i.ibb.co/6J1v0cN/hmt-demo1.png" alt="HMT Demo 1" width="250" /></a>
+  <a href="https://github.com/masihur96/home_manager_backend"><img src="https://i.ibb.co/Khk0qvV/backend-demo.png" alt="Backend Demo" width="250" /></a>
+</p>
 
 ---
 
