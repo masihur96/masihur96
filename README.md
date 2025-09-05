@@ -1,20 +1,20 @@
-<h1 align="center">👋 Hi, I'm Masihur Rohman</h1>
-<h3 align="center">Senior Mobile App Developer | Flutter & Cross-Platform Specialist</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=masihur96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
-### 👨‍💻 About Me
-- 🏆 5+ years building **scalable mobile applications** across iOS & Android  
-- 🔭 Currently leading development on **[HMO – Home Manager Owner](https://github.com/masihur96/Home-Manager-Owner)**  
-- 📱 Expertise: **Flutter, Dart, Firebase, Clean Architecture, REST/GraphQL APIs**  
-- 🛠️ Experienced in **CI/CD, performance optimization, and scalable backend integration**  
-- 🤝 Open to **collaborations & consulting** on enterprise-level apps  
-- 🌐 Portfolio: [masihurrohman.com](https://masihurrohman.com)  
-- 📄 [Resume](https://drive.google.com/file/d/1yvhbtubedckwohinoqHDOAobNtnV2_m6/view?usp=drive_link)  
+<table>
+<tr>
+<td width="120">
+  <img src="https://your-photo-link.com/photo.jpg" width="120" style="border-radius:50%;" alt="Masihur Rohman"/>
+</td>
+<td>
+  <h1>👋 Hi, I'm Masihur Rohman</h1>
+  <h3>Senior Mobile App Developer | Flutter & Cross-Platform Specialist</h3>
+  <p>
+    🔭 Leading development on <a href="https://github.com/masihur96/Home-Manager-Owner">HMO – Home Manager Owner</a><br>
+    🌱 Expertise: Flutter, Dart, Firebase, Clean Architecture, REST/GraphQL APIs<br>
+    🛠️ Experienced in CI/CD, performance optimization, and scalable backend integration<br>
+    📫 Reach me: <strong>masihur96@gmail.com</strong> | 🌐 <a href="https://masihurrohman.com">Portfolio</a>
+  </p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -24,6 +24,7 @@
   <a href="https://github.com/masihur96/Home-Manager-Tenant"><img src="https://i.ibb.co/6J1v0cN/hmt-demo1.png" alt="HMT Demo 1" width="250" /></a>
   <a href="https://github.com/masihur96/home_manager_backend"><img src="https://i.ibb.co/Khk0qvV/backend-demo.png" alt="Backend Demo" width="250" /></a>
 </p>
+
 
 ---
 
