@@ -7,10 +7,10 @@
   <h1>👋 Hi, I'm Masihur Rohman</h1>
   <h3>Senior Mobile App Developer | Flutter & Cross-Platform Specialist</h3>
   <p>
-    🔭 Leading development on <a href="https://github.com/masihur96/Home-Manager-Owner">HMO – Home Manager Owner</a><br>
+    🔭 Leading development on <a href="https://github.com/westacebd/attendancekeeper_employee_portal">Attendance keeper</a><br>
     🌱 Expertise: Flutter, Dart, Firebase, Clean Architecture, REST/GraphQL APIs<br>
     🛠️ Experienced in CI/CD, performance optimization, and scalable backend integration<br>
-    📫 Reach me: <strong>masihur96@gmail.com</strong> | 🌐 <a href="https://masihurrohman.com">Portfolio</a>
+    📫 Reach me: <strong>masihur96@gmail.com</strong> | 🌐 <a href="https://masihur.vercel.app/">Portfolio</a>
   </p>
 </td>
 </tr>
@@ -21,22 +21,22 @@
 <table align="center">
 <tr>
   <td align="center">
-    <a href="https://github.com/masihur96/Home-Manager-Owner">
-      <img src="assets/attendance_keeper.jpeg" width="220" height="450" style="border-radius:15px; margin:5px;" alt="HMO Demo 1"/>
+    <a href="https://play.google.com/store/apps/details?id=net.attendancekeeper.app&hl=en">
+      <img src="assets/attendance_keeper.jpeg" width="220" height="450" style="border-radius:15px; margin:5px;" alt="Attendance Keeper"/>
     </a>
   </td>
   <td align="center">
-    <a href="https://github.com/masihur96/Home-Manager-Tenant">
+    <a href="https://github.com/masihur96/Medication-Tracker">
       <img src="assets/med_tracker.jpeg" width="220" height="450" style="border-radius:15px; margin:5px;" alt="HMT Demo 1"/>
     </a>
   </td>
     <td align="center">
-    <a href="https://github.com/masihur96/Home-Manager-Tenant">
+    <a href="https://github.com/farhan-nahid/anuj-prakashan-mobile-app">
       <img src="assets/anuj_prokashon.jpeg" width="220" height="450" style="border-radius:15px; margin:5px;" alt="HMT Demo 1"/>
     </a>
   </td>
   <td align="center">
-    <a href="https://github.com/masihur96/home_manager_backend">
+    <a href="https://github.com/masihur96/medicare_doctor">
       <img src="assets/medicare.jpeg" width="220" height="450" style="border-radius:15px; margin:5px;" alt="Backend Demo"/>
     </a>
   </td>
