@@ -23,7 +23,7 @@
 <tr>
   <td align="center">
     <a href="https://github.com/masihur96/Home-Manager-Owner">
-      <img src="assets/attendance_keeper.jpg" width="220" height="450" style="border-radius:15px; margin:5px;" alt="HMO Demo 1"/>
+      <img src="assets/attendance_keeper.jpg" width="220" height="450" style="border-radius:15px; margin:5px;" alt="Attendance Keeper"/>
     </a>
   </td>
   <td align="center">
