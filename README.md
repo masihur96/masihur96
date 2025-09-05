@@ -1,8 +1,7 @@
 <table>
 <tr>
-<td width="120">
-<img src="assets/aman.jpg" style="border-radius:50%;" alt="Masihur Rohman"/>
-
+<td width="150">
+<img src="assets/aman.jpg" width="120" height="120" style="border-radius:50%; object-fit:cover;" alt="Masihur Rohman"/>
 </td>
 <td>
   <h1>👋 Hi, I'm Masihur Rohman</h1>
@@ -20,11 +19,25 @@
 ---
 
 ### 📱 Featured Apps
-<p align="center">
-  <a href="https://github.com/masihur96/Home-Manager-Owner"><img src="https://i.ibb.co/2kxqfQx/hmo-demo1.png" alt="HMO Demo 1" width="250" /></a>
-  <a href="https://github.com/masihur96/Home-Manager-Tenant"><img src="https://i.ibb.co/6J1v0cN/hmt-demo1.png" alt="HMT Demo 1" width="250" /></a>
-  <a href="https://github.com/masihur96/home_manager_backend"><img src="https://i.ibb.co/Khk0qvV/backend-demo.png" alt="Backend Demo" width="250" /></a>
-</p>
+<table align="center">
+<tr>
+  <td align="center">
+    <a href="https://github.com/masihur96/Home-Manager-Owner">
+      <img src="https://i.ibb.co/2kxqfQx/hmo-demo1.png" width="220" height="450" style="border-radius:15px; margin:5px;" alt="HMO Demo 1"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/masihur96/Home-Manager-Tenant">
+      <img src="https://i.ibb.co/6J1v0cN/hmt-demo1.png" width="220" height="450" style="border-radius:15px; margin:5px;" alt="HMT Demo 1"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/masihur96/home_manager_backend">
+      <img src="https://i.ibb.co/Khk0qvV/backend-demo.png" width="220" height="450" style="border-radius:15px; margin:5px;" alt="Backend Demo"/>
+    </a>
+  </td>
+</tr>
+</table>
 
 
 ---
