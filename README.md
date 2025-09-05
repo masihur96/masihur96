@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="220">
+<td width="240">
 <img src="assets/aman.jpg" width="120" height="120" style="border-radius:50%; object-fit:cover;" alt="Masihur Rohman"/>
 </td>
 <td>
