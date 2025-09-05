@@ -1,7 +1,8 @@
 <table>
 <tr>
 <td width="120">
-  <img src="https://your-photo-link.com/photo.jpg" width="120" style="border-radius:50%;" alt="Masihur Rohman"/>
+<img src="assets/profile.jpg" width="120" style="border-radius:50%;" alt="Masihur Rohman"/>
+
 </td>
 <td>
   <h1>👋 Hi, I'm Masihur Rohman</h1>
