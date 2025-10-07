@@ -48,22 +48,27 @@
 
 ### 🌍 Connect With Me
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/masihur-rohman-279b201b6" target="_blank" style="margin: 0 10px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="40" width="40" alt="LinkedIn" style="filter: invert(27%) sepia(79%) saturate(3625%) hue-rotate(191deg) brightness(97%) contrast(96%);"/>
   </a>
-  
+
+  <!-- Facebook -->
   <a href="https://facebook.com/masihur96" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="40" width="40" alt="Facebook" style="filter: invert(34%) sepia(100%) saturate(525%) hue-rotate(186deg) brightness(96%) contrast(95%);"/>
   </a>
-  
+
+  <!-- Gmail -->
   <a href="mailto:masihur96@gmail.com" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="40" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="40" width="40" alt="Gmail" style="filter: invert(11%) sepia(92%) saturate(6456%) hue-rotate(1deg) brightness(102%) contrast(108%);"/>
   </a>
-  
+
+  <!-- WhatsApp -->
   <a href="https://wa.me/8801740719204" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="40" alt="WhatsApp"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="40" width="40" alt="WhatsApp" style="filter: invert(37%) sepia(89%) saturate(541%) hue-rotate(85deg) brightness(91%) contrast(89%);"/>
   </a>
 </p>
+
 
 
 
