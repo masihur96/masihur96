@@ -47,29 +47,50 @@
 ---
 
 ### 🌍 Connect With Me
-<p align="center">
+<p align="center" style="background: transparent; padding: 10px 0;">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/masihur-rohman-279b201b6" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="40" width="40" alt="LinkedIn" style="filter: invert(27%) sepia(79%) saturate(3625%) hue-rotate(191deg) brightness(97%) contrast(96%);"/>
+  <a href="https://linkedin.com/in/masihur-rohman-279b201b6" target="_blank" style="margin: 0 12px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" 
+         height="40" width="40" alt="LinkedIn" 
+         style="filter: invert(48%) sepia(93%) saturate(749%) hue-rotate(177deg) brightness(92%) contrast(91%);
+                transition: all 0.3s ease;"/>
   </a>
 
   <!-- Facebook -->
-  <a href="https://facebook.com/masihur96" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="40" width="40" alt="Facebook" style="filter: invert(34%) sepia(100%) saturate(525%) hue-rotate(186deg) brightness(96%) contrast(95%);"/>
+  <a href="https://facebook.com/masihur96" target="_blank" style="margin: 0 12px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" 
+         height="40" width="40" alt="Facebook" 
+         style="filter: invert(39%) sepia(93%) saturate(621%) hue-rotate(189deg) brightness(95%) contrast(94%);
+                transition: all 0.3s ease;"/>
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:masihur96@gmail.com" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="40" width="40" alt="Gmail" style="filter: invert(11%) sepia(92%) saturate(6456%) hue-rotate(1deg) brightness(102%) contrast(108%);"/>
+  <a href="mailto:masihur96@gmail.com" target="_blank" style="margin: 0 12px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
+         height="40" width="40" alt="Email"
+         style="filter: brightness(0) invert(1); transition: all 0.3s ease;"/>
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/8801740719204" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="40" width="40" alt="WhatsApp" style="filter: invert(37%) sepia(89%) saturate(541%) hue-rotate(85deg) brightness(91%) contrast(89%);"/>
+  <a href="https://wa.me/8801740719204" target="_blank" style="margin: 0 12px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" 
+         height="40" width="40" alt="WhatsApp" 
+         style="filter: brightness(0) invert(1); transition: all 0.3s ease;"/>
   </a>
 </p>
 
-
+<style>
+  /* Hover Effects (Optional but Professional) */
+  a img:hover {
+    transform: scale(1.15);
+    filter: brightness(1.3);
+  }
+  @media (prefers-color-scheme: light) {
+    a img[alt="Gmail"], a img[alt="WhatsApp"] {
+      filter: none !important;
+    }
+  }
+</style>
 
 
 ---
