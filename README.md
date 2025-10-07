@@ -49,9 +49,7 @@
 ### 🌍 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/masihur-rohman-279b201b6" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" 
-         height="40" width="40" alt="LinkedIn" 
-         style="filter: brightness(0) invert(0.9) sepia(0%) saturate(0%) hue-rotate(0deg);"/>
+   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="40" width="40" alt="LinkedIn" style="filter: brightness(0); transition: all 0.3s ease;">
   </a>
 
   <a href="https://facebook.com/masihur96" target="_blank" style="margin: 0 10px;">
