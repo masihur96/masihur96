@@ -48,12 +48,23 @@
 
 ### 🌍 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/masihur-rohman-279b201b6" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://facebook.com/masihur96" target="blank"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-  <a href="https://dribbble.com/masihur96" target="blank"><img src="https://skillicons.dev/icons?i=dribbble" height="40"/></a>
-  <a href="https://www.youtube.com/channel/UCywK1Iom-T-sdg2ik--9O9Q" target="blank"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
-  <a href="https://leetcode.com/masihur_96" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
+  <a href="https://linkedin.com/in/masihur-rohman-279b201b6" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://facebook.com/masihur96" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/>
+  </a>
+  <a href="https://dribbble.com/masihur96" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dribbble/dribbble-plain.svg" height="40"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCywK1Iom-T-sdg2ik--9O9Q" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" height="40"/>
+  </a>
+  <a href="https://leetcode.com/masihur_96" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
+  </a>
 </p>
+
 
 ---
 
