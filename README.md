@@ -49,21 +49,30 @@
 ### 🌍 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/masihur-rohman-279b201b6" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="40" width="40" alt="LinkedIn" style="filter: invert(100%);"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" 
+         height="40" width="40" alt="LinkedIn" 
+         style="filter: brightness(0) invert(0.9) sepia(0%) saturate(0%) hue-rotate(0deg);"/>
   </a>
-  
+
   <a href="https://facebook.com/masihur96" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="40" width="40" alt="Facebook" style="filter: invert(100%);"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" 
+         height="40" width="40" alt="Facebook" 
+         style="filter: brightness(0) invert(0.9) sepia(0%) saturate(0%) hue-rotate(0deg);"/>
   </a>
-  
+
   <a href="mailto:masihur96@gmail.com" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="40" width="40" alt="Gmail" style="filter: invert(100%);"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
+         height="40" width="40" alt="Gmail" 
+         style="filter: brightness(0) invert(0.9) sepia(0%) saturate(0%) hue-rotate(0deg);"/>
   </a>
-  
+
   <a href="https://wa.me/8801740719204" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="40" width="40" alt="WhatsApp" style="filter: invert(100%);"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" 
+         height="40" width="40" alt="WhatsApp" 
+         style="filter: brightness(0) invert(0.9) sepia(0%) saturate(0%) hue-rotate(0deg);"/>
   </a>
 </p>
+
 
 ---
 
