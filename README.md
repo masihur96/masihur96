@@ -79,17 +79,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,kotlin,java,swift,python,fastapi,react,reactnative,docker,postgresql,mysql,figma,postman,tensorflow,git" />
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masihur96&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masihur96&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masihur96&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
